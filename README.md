@@ -21,7 +21,9 @@ Para contribuir, basta baixar o caderno que tenha interesse em revisar a traduç
 Você pode abrir arquivos do Github diretamente no Google Colab utilizando os seguinte template:
 - `https://colab.research.google.com/github/` + {caminho do repositório}
 
-Portanto basta acrescentar à url anterior o caminho que vem após `https://github.com/`. Por exemplo, para abrir o arquivo https://github.com/WittmannF/fastai/tree/docs-portuguese/docs_src/pt-br/tutorial.data.ipynb basta remover o `https://github.com/` e juntar com `https://colab.research.google.com/github/`. Ficaria da seguinte forma:
+Portanto basta acrescentar à url anterior o caminho que vem após `https://github.com/`. Por exemplo, para abrir o arquivo https://github.com/WittmannF/fastai/blob/docs-portuguese/docs_src/pt-br/tutorial.data.ipynb basta remover o `https://github.com/` e juntar com `https://colab.research.google.com/github/`. Ficaria da seguinte forma:
 - https://colab.research.google.com/github/WittmannF/fastai/tree/docs-portuguese/docs_src/pt-br/tutorial.data.ipynb
+- https://colab.research.google.com/github/WittmannF/fastai/blob/docs-portuguese/docs_src/pt-br/tutorial.data.ipynb
 
+Alternativamente você pode ir em https://colab.research.google.com, clicar em Github e colocar a URL do repositório. 
 
