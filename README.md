@@ -27,3 +27,4 @@ Portanto basta acrescentar à url anterior o caminho que vem após `https://gith
 
 Alternativamente você pode ir em https://colab.research.google.com, clicar em Github e colocar a URL do repositório. 
 
+**!IMPORTANTE:** As alterações não serão salvas de arquivos abertos diretamente do Github. Você deve ou clicar em "Copy to Drive" ou menu 'File > Save a copy in GitHub'. Recomendo a segunda opção pois haverá a opção 'Include a link to Colaboratory' no qual incluirá um link para abrir no jupyter um link para abrir o arquivo diretamente no Google Colab. 
