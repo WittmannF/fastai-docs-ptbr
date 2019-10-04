@@ -6,8 +6,8 @@ Com o intuito de praticar o código e também fazer com que impacte um grupo mai
 
 Estarei compartilhando aqui o progresso neste projeto. Você é bem vindo para ajudar! Todos os cadernos já foram pré-traduzidos a partir de um [script](https://github.com/WittmannF/jupyter-translate) que fez uso de um API do Google Translate (e também alguns artifícios para que blocos especials da linguagem markdown não fossem "traduzidos"). No entanto ainda é necessário uma leitura de cada caderno e correção em comparação com os arquivos originais. Os arquivos pré-traduzidos estão em um branch de um fork da fastai chamado 'doc-portuguese'. Seguem os links:
 
-- Cadernos do Jupyter: https://github.com/WittmannF/fastai/tree/docs-portuguese/docs_src/pt-br
-- Arquivos em markdown: https://github.com/WittmannF/fastai/tree/docs-portuguese/docs/pt-br
+- Cadernos do Jupyter pré-traduzidos: https://github.com/WittmannF/fastai/tree/docs-portuguese/docs_src/pt-br
+- Arquivos em markdown pré-traduzidos: https://github.com/WittmannF/fastai/tree/docs-portuguese/docs/pt-br
 
 Para contribuir, basta baixar o caderno que tenha interesse em traduzir e depois me enviar (`fernando . wittmann @ gmail . com`) para que eu adicione ao branch. Você também pode mandar um pull request diretamente ao branch caso saiba fazer isso. 
 
