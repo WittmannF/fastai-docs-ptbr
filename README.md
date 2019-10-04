@@ -9,7 +9,7 @@ Estarei compartilhando aqui o progresso neste projeto. Você é bem vindo para a
 - Cadernos do Jupyter pré-traduzidos: https://github.com/WittmannF/fastai/tree/docs-portuguese/docs_src/pt-br
 - Arquivos em markdown pré-traduzidos: https://github.com/WittmannF/fastai/tree/docs-portuguese/docs/pt-br
 
-Para contribuir, basta baixar o caderno que tenha interesse em traduzir e depois me enviar (`fernando . wittmann @ gmail . com`) para que eu adicione ao branch. Você também pode mandar um pull request diretamente ao branch caso saiba fazer isso. 
+Para contribuir, basta baixar o caderno que tenha interesse em revisar a tradução e depois me enviar (`fernando . wittmann @ gmail . com`) para que eu adicione ao branch. Você também pode mandar um pull request diretamente ao branch caso saiba fazer isso. 
 
 ### Arquivos revisados até o momento
 - [index.ipynb](https://github.com/WittmannF/fastai/blob/docs-portuguese/docs_src/pt-br/index.ipynb)
