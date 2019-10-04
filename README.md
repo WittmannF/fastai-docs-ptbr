@@ -19,9 +19,9 @@ Para contribuir, basta baixar o caderno que tenha interesse em revisar a traduç
 
 ## Como abrir os arquivos .ipynb no Google Colab
 Você pode abrir arquivos do Github diretamente no Google Colab utilizando os seguinte template:
-- `https://colab.research.google.com/github/{caminho-do-repositorio}'.`
+- `https://colab.research.google.com/github/` + {caminho do repositório}
 
-Por exemplo, para abrir o arquivo https://github.com/WittmannF/fastai/tree/docs-portuguese/docs_src/pt-br/tutorial.data.ipynb basta utilizar o seguinte link:
+Portanto basta acrescentar à url anterior o caminho que vem após `https://github.com/`. Por exemplo, para abrir o arquivo https://github.com/WittmannF/fastai/tree/docs-portuguese/docs_src/pt-br/tutorial.data.ipynb basta remover o `https://github.com/` e juntar com `https://colab.research.google.com/github/`. Ficaria da seguinte forma:
 - https://colab.research.google.com/github/WittmannF/fastai/tree/docs-portuguese/docs_src/pt-br/tutorial.data.ipynb
 
 
