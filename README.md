@@ -9,10 +9,19 @@ Estarei compartilhando aqui o progresso neste projeto. Você é bem vindo para a
 - Cadernos do Jupyter pré-traduzidos: https://github.com/WittmannF/fastai/tree/docs-portuguese/docs_src/pt-br
 - Arquivos em markdown pré-traduzidos: https://github.com/WittmannF/fastai/tree/docs-portuguese/docs/pt-br
 
-Para contribuir, basta baixar o caderno que tenha interesse em revisar a tradução e depois me enviar (`fernando . wittmann @ gmail . com`) para que eu adicione ao branch. Você também pode mandar um pull request diretamente ao branch caso saiba fazer isso. 
+Para contribuir, basta baixar o caderno que tenha interesse em revisar a tradução e depois me enviar (`fernando . wittmann @ gmail . com`) para que eu adicione ao branch. Você pode abrir o caderno diretamente utilizando o Google Colab (confira as intruções abaixo). Você também pode mandar um pull request diretamente ao branch caso saiba fazer isso. 
 
-### Arquivos revisados até o momento
+## Arquivos revisados até o momento
 - [index.ipynb](https://github.com/WittmannF/fastai/blob/docs-portuguese/docs_src/pt-br/index.ipynb)
 
-### Revisões em andamento
+## Revisões em andamento
 - 
+
+## Como abrir os arquivos .ipynb no Google Colab
+Você pode abrir arquivos do Github diretamente no Google Colab utilizando os seguinte template:
+- `https://colab.research.google.com/github/{caminho-do-repositorio}'.`
+
+Por exemplo, para abrir o arquivo https://github.com/WittmannF/fastai/tree/docs-portuguese/docs_src/pt-br/tutorial.data.ipynb basta utilizar o seguinte link:
+- https://colab.research.google.com/github/WittmannF/fastai/tree/docs-portuguese/docs_src/pt-br/tutorial.data.ipynb
+
+
