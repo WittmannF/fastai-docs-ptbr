@@ -1,6 +1,6 @@
 # Documentação da FastAI em Português
 
-> **NOTA:** *Esta documentação é independente e não possui vínculo com a FastAI. Não há garantias que ela estará disponível na [página oficial da documentação](https://docs.fast.ai) (apesar de que eventualmente um pull request pode ser feito se boa parte do material for traduzido). Também não há garantias de que a documentação traduzida estará 100% atualizada em relação à em inglês.*
+> **NOTA:** *Esta documentação é independente e não possui vínculo com a FastAI. Não há garantias que ela estará disponível na [página oficial da documentação](https://docs.fast.ai) (apesar de que eventualmente um pull request pode ser feito se boa parte do material for traduzido). Também não há garantias de que a documentação traduzida estará 100% atualizada com a versão em inglês.*
 
 Este projeto foi iniciado com o intuito de revisar o material do curso e possibilitar com que a FastAI alcance um número maior de pessoas. Praticamente a documentação inteira foi criada utilizando cadernos do jupyter (arquivos .ipynb). Há também arquivos em markdown, no entanto são minoria. Todos os cadernos estão disponívels em [/fastai/docs_src](https://github.com/fastai/fastai/tree/master/docs_src). Já os markdown estão em [/fastai/docs](https://github.com/fastai/fastai/tree/master/docs). Por exemplo, a página inicial está [aqui](https://github.com/fastai/fastai/blob/master/docs_src/index.ipynb).
 
