@@ -13,9 +13,10 @@ Para contribuir, basta baixar o caderno que tenha interesse em revisar a traduç
 
 ## Arquivos revisados até o momento
 - [index.ipynb](https://github.com/WittmannF/fastai/blob/docs-portuguese/docs_src/pt-br/index.ipynb)
+- [tutorial.data.ipynb](https://github.com/WittmannF/fastai/blob/docs-portuguese/docs_src/pt-br/tutorial.data.ipynb) (Fernando)
 
 ## Revisões em andamento
-- [tutorial.data.ipynb](https://github.com/WittmannF/fastai/blob/docs-portuguese/docs_src/pt-br/tutorial.data.ipynb) (Fernando)
+- [tutorial.inference.ipynb](https://github.com/WittmannF/fastai/blob/docs-portuguese/docs_src/pt-br/tutorial.inference.ipynb)
 
 ## Como abrir os arquivos .ipynb no Google Colab
 Você pode abrir arquivos do Github diretamente no Google Colab utilizando os seguinte template:
